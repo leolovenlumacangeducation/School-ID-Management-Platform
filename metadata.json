@@ -1,0 +1,6 @@
+{
+  "name": "School ID Management Platform",
+  "description": "Enterprise SaaS platform for multi-school ID card design, batch generation, print center, and QR verification.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
